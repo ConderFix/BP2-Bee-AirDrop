@@ -2,7 +2,8 @@
 Bee AirDrop
 
 # Task:
-We need to build a schematic. 
+We need to build the point of emergence of the Bee AirDrop.
+ 
 Style: Bee. 
 
 Building size: **51x51**
