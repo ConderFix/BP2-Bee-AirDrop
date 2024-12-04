@@ -1,7 +1,7 @@
-#BuildingPorfolio3
+# BuildingPorfolio3
 Bee AirDrop
 
-# ღ Task:
+# Task:
 We need to build a schematic. 
 Style: Bee. 
 
