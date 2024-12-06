@@ -21,5 +21,3 @@ Building size: **51x51**
 # ✉ My social media:
 Discord - quizie_api
 
-
-Telegram - https://t.me/kotlin_top
