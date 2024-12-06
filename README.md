@@ -1,4 +1,4 @@
-![2024-12-06_23 23 30](https://github.com/user-attachments/assets/321e091e-34ef-49e2-9c46-652f29b47e2c)# BuildingPorfolio3
+# BuildingPorfolio3
 Bee AirDrop
 
 # Task:
