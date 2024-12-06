@@ -1,4 +1,4 @@
-# BuildingPorfolio3
+![2024-12-06_23 23 30](https://github.com/user-attachments/assets/321e091e-34ef-49e2-9c46-652f29b47e2c)# BuildingPorfolio3
 Bee AirDrop
 
 # Task:
@@ -9,10 +9,14 @@ Style: **Bee**.
 Building size: **51x51**
 
 # Result:
-![2024-12-04_19 30 47](https://github.com/user-attachments/assets/e9ef906f-76db-4cda-8416-9c9006fe56d5)
-![2024-12-04_19 31 12](https://github.com/user-attachments/assets/e3ad6294-1c57-4e92-8835-16c6c596c097)
-![2024-12-04_19 31 58](https://github.com/user-attachments/assets/7334f000-8ebd-4601-b0fd-3bc3c09a6fda)
-![2024-12-04_19 32 25](https://github.com/user-attachments/assets/add174d5-302b-4a2e-807c-ba41003b63d2)
+![2024-12-06_23 22 45](https://github.com/user-attachments/assets/67fab45e-33e1-4ac4-9b32-4b0662bb46a4)
+![2024-12-06_23 23 03](https://github.com/user-attachments/assets/10da6005-a006-458d-90b4-2655aeb5024f)
+![2024-12-06_23 23 30](https://github.com/user-attachments/assets/587e506f-b56a-4d66-8a99-a1332c1e8527)
+![2024-12-06_23 23 52](https://github.com/user-attachments/assets/53fa86a1-4f48-4ca5-9e8e-ce3342018803)
+![2024-12-06_23 24 17](https://github.com/user-attachments/assets/2016c6b2-d266-4db5-81fd-2dbb42d20e60)
+
+
+
 
 # ✉ My social media:
 Discord - quizie_api
